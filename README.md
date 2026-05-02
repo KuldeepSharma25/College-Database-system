@@ -1,4 +1,4 @@
-# 🎓 College Database Management System (SQL Project)
+# 🎓 College Database Management System 
 
 ###  Overview
 This project is designed to simulate a real college management database using SQL.
